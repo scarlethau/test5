@@ -1,7 +1,10 @@
-#!/usr/bin/env python
+@@ -1,102 +1,8 @@
+ #!/usr/bin/env python
  # coding: utf-8
 
  # # Importeren van de packages en files
+
+ # In[1]:
 
  import streamlit as st
  import folium
