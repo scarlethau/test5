@@ -3,8 +3,6 @@
 
  # # Importeren van de packages en files
 
- # In[1]:
-
  import streamlit as st
  import folium
  import geopandas as gpd
